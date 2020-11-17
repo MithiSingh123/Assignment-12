@@ -1,0 +1,36 @@
+
+.one{
+    text-align: center;
+    color: teal;
+    font-size: 60px;
+    text-shadow: -1px 1px 2px rgba(0,0,0,0.7),
+    -5px 5px 1px orange,
+    -6px 6px 2px rgba(0,0,0,0.7),
+    -10px 10px 1px red,
+    -11px 11px 2px rgba(0,0,0,0.7),
+    -15px 15px 1px purple,
+    -16px 16px 2px rgba(0,0,0,0.7)
+}
+#two{
+    font-size: 40px;
+    color: green;
+    text-decoration:line-through yellow ;
+    
+}
+.three{
+    color: maroon;
+    font-size: large;
+}
+.four{
+    color: teal;
+
+}
+#five{
+    color: purple;
+}
+#six{
+    color: orange;
+}
+.eight {
+    color: teal;
+}
